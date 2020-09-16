@@ -4,7 +4,7 @@ You need to calculate fibonacci sum using memoized function.
 
 This question have following two parts
 
-**Part 1: Write a function `sumFibs` to calculate fibonacci sum**
+**Part 1: Write a function `sumFibs` to calculate fibonacci sum*
 
 Given a positive integer num, return the sum of all **ODD** Fibonacci
 numbers that are less than or equal to num.
